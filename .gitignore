@@ -1,0 +1,20 @@
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.log
+*.tmp
+
+# Local environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# IDE
+.idea/
+.vscode/
+
+# Packaged releases
+*.zip
+*.7z
